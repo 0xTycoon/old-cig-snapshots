@@ -11,11 +11,15 @@ cig-balances-pool.json - computed snapshot of CIG balances in the Sushiswap pool
 
 cig-balances.json - computed snapshot of CIG balances in wallets, excluding Sushi pool, at block 14148801
 
+migrated.json - a list of addresses that migrated (called the wrap function on the new cig contract)
+
 ### Totals (at block 14148801)
 
 Total old-CIG remained in pool (38 wallets): 12451997.049068455100000000 
 
 Total old-CIG remained in 251 wallets: 30336065.673239597300000000
+
+Total old-CIG upgraded: 322,710,685.800140714227204756
 
 ### Other details
 
